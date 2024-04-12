@@ -1,30 +1,12 @@
 # worldskills_module_a2
 
-A new Flutter project.
+Screenshots
 
-## Getting Started
+![home_page](https://github.com/shaharex/worldskills_module_a2/assets/155885618/02deacec-e389-4c6f-8497-98d9d46d3692)
+![photos_page](https://github.com/shaharex/worldskills_module_a2/assets/155885618/c722b3e5-9356-4ac4-ae88-d5e6002d0020)
+![fullscreen_photo](https://github.com/shaharex/worldskills_module_a2/assets/155885618/68cfae12-1cdc-406f-9058-6f5982436d5e)
+![events_list](https://github.com/shaharex/worldskills_module_a2/assets/155885618/408681ce-a33c-46d1-a550-94cefad04506)
+![events_details](https://github.com/shaharex/worldskills_module_a2/assets/155885618/ee85d1ec-b52d-431d-85d9-8849e0a416e7)
+![events_detailed](https://github.com/shaharex/worldskills_module_a2/assets/155885618/59dbb779-c4c4-4232-8e4b-07101bbe0a4c)
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
